@@ -1,2 +1,4 @@
-# DIG4720C_Project2
- Dimension Destroyer from Pink Moon Studio team
+# Dimension Destroyer from Pink Moon Studio team
+** Project2 from Casual Game Production class **
+
+--------** CREDIT **--------
