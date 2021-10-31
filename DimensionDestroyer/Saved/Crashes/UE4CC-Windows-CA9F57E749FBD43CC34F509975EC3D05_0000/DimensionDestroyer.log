@@ -1,0 +1,1215 @@
+﻿Log file open, 10/31/21 17:33:08
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DimensionDestroyer
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.222482
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Engine.ini]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Engine.ini]
+[2021.10.31-21.33.08:566][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Engine.ini]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Engine.ini]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.31-21.33.08:566][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Engine.ini]
+[2021.10.31-21.33.08:566][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Engine.ini]
+[2021.10.31-21.33.08:579][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.31-21.33.08:579][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.31-21.33.08:580][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.31-21.33.08:580][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.31-21.33.08:580][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.31-21.33.08:581][  0]LogHAL: Display: Platform has ~ 23 GB [24645623808 / 34359738368 / 23], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.31-21.33.08:581][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.31-21.33.08:581][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.31-21.33.08:581][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Scalability.ini]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.31-21.33.08:582][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.31-21.33.08:584][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.31-21.33.08:584][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.31-21.33.08:584][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.31-21.33.08:584][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Engine.ini]
+[2021.10.31-21.33.08:584][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Config/Windows/Editor.ini]
+[2021.10.31-21.33.08:584][  0]LogInit: Computer: DESKTOP-OG7GE31
+[2021.10.31-21.33.08:584][  0]LogInit: User: Matt
+[2021.10.31-21.33.08:584][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.10.31-21.33.08:584][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.31-21.33.08:584][  0]LogMemory: Memory total: Physical=23.0GB (23GB approx)
+[2021.10.31-21.33.08:584][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.31-21.33.08:584][  0]LogMemory: Process Physical Memory: 136.97 MB used, 136.98 MB peak
+[2021.10.31-21.33.08:584][  0]LogMemory: Process Virtual Memory: 118.25 MB used, 118.25 MB peak
+[2021.10.31-21.33.08:584][  0]LogMemory: Physical Memory: 11774.95 MB used,  11728.95 MB free, 23503.90 MB total
+[2021.10.31-21.33.08:584][  0]LogMemory: Virtual Memory: 134213592.00 MB used,  4133.57 MB free, 134217728.00 MB total
+[2021.10.31-21.33.08:588][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.31-21.33.08:627][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.31-21.33.08:628][  0]LogInit: Using OS detected language (en-US).
+[2021.10.31-21.33.08:628][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.31-21.33.08:633][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.31-21.33.08:813][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.31-21.33.08:822][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.31-21.33.08:837][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.31-21.33.08:837][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.31-21.33.08:966][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.31-21.33.08:966][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.31-21.33.08:966][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.31-21.33.08:966][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.31-21.33.09:077][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.10.31-21.33.09:077][  0]LogD3D11RHI:       8088/0/11751 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.31-21.33.09:093][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.10.31-21.33.09:093][  0]LogD3D11RHI:       128/0/11751 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.10.31-21.33.09:095][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.31-21.33.09:095][  0]LogD3D11RHI:       0/0/11751 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.31-21.33.09:095][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.31-21.33.09:102][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.31-21.33.09:102][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.31-21.33.09:102][  0]LogWindows: EnumDisplayDevices:
+[2021.10.31-21.33.09:102][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.10.31-21.33.09:102][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.10.31-21.33.09:102][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.10.31-21.33.09:102][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.10.31-21.33.09:103][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.10.31-21.33.09:103][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.10.31-21.33.09:103][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.10.31-21.33.09:103][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.10.31-21.33.09:103][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.10.31-21.33.09:103][  0]LogD3D11RHI:   Driver Version: 496.13 (internal:30.0.14.9613, unified:496.13)
+[2021.10.31-21.33.09:103][  0]LogD3D11RHI:      Driver Date: 10-6-2021
+[2021.10.31-21.33.09:103][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.10.31-21.33.09:160][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.31-21.33.09:160][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.31-21.33.09:160][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.31-21.33.09:191][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.31-21.33.09:192][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.31-21.33.09:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.31-21.33.09:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.31-21.33.09:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.31-21.33.09:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.31-21.33.09:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.31-21.33.09:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.31-21.33.09:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.31-21.33.09:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.31-21.33.09:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.31-21.33.09:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.31-21.33.09:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.31-21.33.09:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.31-21.33.09:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.31-21.33.09:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.31-21.33.09:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.31-21.33.09:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.31-21.33.09:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.31-21.33.09:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.31-21.33.09:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.31-21.33.09:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.31-21.33.09:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.31-21.33.09:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.31-21.33.09:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.31-21.33.09:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.31-21.33.09:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.31-21.33.09:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.31-21.33.09:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.31-21.33.09:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.31-21.33.09:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.31-21.33.09:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.31-21.33.09:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.31-21.33.09:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.31-21.33.09:657][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.31-21.33.09:663][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.31-21.33.09:709][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.31-21.33.09:709][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Intermediate/Shaders/WorkingDirectory/17040/).
+[2021.10.31-21.33.09:709][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matt/AppData/Local/Temp/UnrealShaderWorkingDir/DE1AD89F467F1317198F8288C776813D/'.
+[2021.10.31-21.33.09:709][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.31-21.33.09:709][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.31-21.33.10:439][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.31-21.33.10:497][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Matt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.31-21.33.10:497][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.10.31-21.33.10:497][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.31-21.33.10:497][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.31-21.33.10:497][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.31-21.33.10:497][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.31-21.33.10:508][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.31-21.33.10:508][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.31-21.33.10:508][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.31-21.33.10:517][  0]LogDerivedDataCache: Speed tests for C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.10.31-21.33.10:517][  0]LogDerivedDataCache: Display: Performance to C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=339.55MBs, RandomWriteSpeed=164.76MBs. Assigned SpeedClass 'Local'
+[2021.10.31-21.33.10:517][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.31-21.33.10:517][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.31-21.33.10:517][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.31-21.33.10:562][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.31-21.33.10:562][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.31-21.33.10:588][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.10.31-21.33.10:824][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.31-21.33.10:824][  0]LogInit: Active device profile: [00000220FB415900][00000220F9E56AC0 49] Windows
+[2021.10.31-21.33.10:824][  0]LogInit: Profiles: [00000220FB415900][00000220F9E56AC0 49] Windows, [00000220FB413F00][00000220E8604C40 49] WindowsNoEditor, [00000220FB417300][00000220E8608DC0 49] WindowsServer, [00000220FB411000][00000220E860CF40 49] WindowsClient, [00000220FB415100][00000220E86110C0 49] IOS, [00000220FB413C00][00000220E8615240 49] iPadAir, [00000220FB417200][00000220E86193C0 49] iPadAir2, [00000220FB3B2600][00000220E8621680 49] IPadPro, [00000220FB3B2700][00000220E861D6C0 49] iPadAir3, [00000220FB417700][00000220F9E5B800 49] iPadAir4, [00000220FB3B3C00][00000220E8625940 49] iPadMini2, [00000220FB415F00][00000220E8629A80 49] iPadMini3, [00000220FB3B1B00][00000220E8631C00 49] iPadMini4, [00000220FB415D00][00000220FB0E80C0 49] iPadMini5, [00000220FB3E5F00][00000220FB0F0380 49] iPhone6, [00000220FB3E6000][00000220FB0EC3C0 49] iPodTouch6, [00000220FB413D00][00000220FB0F8680 49] iPhone7, [00000220FB413E00][00000220FB0F46C0 49] iPodTouch7, [00000220FB3E7600][00000220FB0FC840 49] iPhone5S, [00000220FB411800][00000220FB1009C0 49] iPhone6Plus, [00000220FB3E5900][00000220FB104B40 49] iPhone6S, [00000220FB411F00][00000220FB108CC0 49] iPhone6SPlus, [00000220FB3E4C00][00000220FB126E40 49] iPhone7Plus, [00000220FB412700][00000220FB12AFC0 49] iPhoneSE, [00000220FB3E5200][00000220FB12F140 49] iPhone8, [00000220FB413A00][00000220FB1332C0 49] iPhone8Plus, [00000220FB3E4A00][00000220FB137440 49] iPhoneX, [00000220FB411200][00000220FB13B5C0 49] iPhoneXS, [00000220FB3E6500][00000220FB13F740 49] iPhoneXSMax, [00000220FB410700][00000220E862D880 49] iPhoneXR, [00000220FB3E7000][00000220FB1439C0 49] iPhone11, [00000220FB413300][00000220FB147B00 49] iPhone11Pro, [00000220FB3E5800][00000220FB14BC40 49] iPhone11ProMax, [00000220FB412900][00000220FB152100 49] iPhoneSE2, [00000220FB3E7C00][00000220FB156280 49] iPhone12Mini, [00000220FB412800][00000220FB15A400 49] iPhone12, [00000220FB417A00][00000220FB15E580 49] iPhone12Pro, [00000220FB3E5700][00000220FB162700 49] iPhone12ProMax, [00000220FB417C00][00000220FB166880 49] iPadPro105, [00000220FB3E4E00][00000220FB16AA00 49] iPadPro129, [00000220FB416D00][00000220FB16EB80 49] iPadPro97, [00000220FB3E6C00][00000220FB172D00 49] iPadPro2_129, [00000220FB411700][00000220FB176E80 49] iPad5, [00000220FB3E7800][00000220FB17B000 49] iPad6, [00000220FB411A00][00000220FB17F180 49] iPad7, [00000220FB3E5100][00000220FB183300 49] iPad8, [00000220FB410C00][00000220FB187480 49] iPadPro11, [00000220FB3E4B00][00000220FB18B600 49] iPadPro2_11, [00000220FB413800][00000220FB18F780 49] iPadPro3_129, [00000220FB3E4100][00000220FB14F8C0 49] iPadPro4_129, [00000220FB413B00][00000220FB193A00 49] AppleTV, [00000220FB3E7B00][00000220FB197B40 49] AppleTV4K, [00000220FB410100][00000220FB19BC80 49] TVOS, [00000220FB3E4500][00000220FB1A2140 49] Mac, [00000220FB413600][00000220FB1A62C0 49] MacClient, [00000220FB3E7400][00000220FB1AA440 49] MacNoEditor, [00000220FB412000][00000220FB1AE5C0 49] MacServer, [00000220FB3E5300][00000220FB1B2740 49] Linux, [00000220FB413200][00000220FB1B68C0 49] LinuxAArch64, [00000220FB3E6200][00000220FB1BAA40 49] LinuxNoEditor, [00000220FB411B00][00000220FB1BEBC0 49] LinuxAArch64NoEditor, [00000220FB3E7300][00000220FB1C2D40 49] LinuxClient, [00000220FB412D00][00000220FB1C6EC0 49] LinuxAArch64Client, [00000220FB3E6600][00000220FB1CB040 49] LinuxServer, [00000220FB412500][00000220FB1CF1C0 49] LinuxAArch64Server, [00000220FB3E6D00][00000220FB1D3340 49] Android, [00000220FB410E00][00000220FB1D74C0 49] Android_Low, [00000220FB3E5600][00000220FB1DB640 49] Android_Mid, [00000220FB412A00][00000220FB1DF7C0 49] Android_High, [00000220FB3E6700][00000220FB1E3940 49] Android_Default, [00000220FB411900][00000220FB19FA80 49] Android_Adreno4xx, [00000220FB3E4700][00000220FB1E7BC0 49] Android_Adreno5xx_Low, [00000220FB412200][00000220FB1EBD00 49] Android_Adreno5xx, [00000220FB3E4800][00000220FB1F21C0 49] Android_Adreno6xx, [00000220FB413700][00000220FB1F6340 49] Android_Adreno6xx_Vulkan, [00000220FB3E6800][00000220FB1FA4C0 49] Android_Mali_T6xx, [00000220FB413000][00000220FB1FE640 49] Android_Mali_T7xx, [00000220FB3E4D00][00000220FB2027C0 49] Android_Mali_T8xx, [00000220FB412E00][00000220FB206940 49] Android_Mali_G71, [00000220FB3E4F00][00000220FB20AAC0 49] Android_Mali_G72, [00000220FB410D00][00000220FB20EC40 49] Android_Mali_G72_Vulkan, [00000220FB3E6A00][00000220FB212DC0 49] Android_Mali_G76, [00000220FB411300][00000220FB216F40 49] Android_Mali_G76_Vulkan, [00000220FB3E5A00][00000220FB21B0C0 49] Android_Mali_G77, [00000220FB3B2E00][00000220FB21F240 49] Android_Mali_G77_Vulkan, [00000220FB417900][00000220FB2233C0 49] Android_Vulkan_SM5, [00000220FB3B0800][00000220FB227540 49] Android_PowerVR_G6xxx, [00000220FB417400][00000220FB22B6C0 49] Android_PowerVR_GT7xxx, [00000220FB3B0E00][00000220FB22F840 49] Android_PowerVR_GE8xxx, [00000220FB415400][00000220FB2339C0 49] Android_PowerVR_GM9xxx, [00000220FB3B0900][00000220FB1EFB00 49] Android_PowerVR_GM9xxx_Vulkan, [00000220FB414E00][00000220FB237C40 49] Android_TegraK1, [00000220FB3B0D00][00000220FB23A0C0 49] Android_Unknown_Vulkan, [00000220FB414C00][00000220FB242240 49] Lumin, [00000220FB3B1000][00000220FB2463C0 49] Lumin_Desktop, [00000220FB415700][00000220FB24A540 49] HoloLens, 
+[2021.10.31-21.33.10:941][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.31-21.33.10:941][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.31-21.33.10:941][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.31-21.33.10:941][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.31-21.33.10:941][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.31-21.33.10:959][  0]LogNetVersion: DimensionDestroyer 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2975075596)
+[2021.10.31-21.33.11:497][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.31-21.33.11:545][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.047173 seconds
+[2021.10.31-21.33.11:551][  0]LogUObjectArray: 17492 objects as part of root set at end of initial load.
+[2021.10.31-21.33.11:551][  0]LogUObjectAllocator: 4476304 out of 0 bytes used by permanent object pool.
+[2021.10.31-21.33.11:551][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.31-21.33.11:891][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.31-21.33.11:895][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.31-21.33.11:965][  0]SourceControl: Source control is disabled
+[2021.10.31-21.33.11:965][  0]SourceControl: Source control is disabled
+[2021.10.31-21.33.11:967][  0]SourceControl: Source control is disabled
+[2021.10.31-21.33.11:970][  0]SourceControl: Source control is disabled
+[2021.10.31-21.33.11:977][  0]SourceControl: Source control is disabled
+[2021.10.31-21.33.11:983][  0]LogUProjectInfo: Found projects:
+[2021.10.31-21.33.11:994][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.10.31-21.33.12:015][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.10.31-21.33.12:200][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.31-21.33.12:216][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.31-21.33.12:216][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.31-21.33.12:258][  0]LogCollectionManager: Loaded 0 collections in 0.001484 seconds
+[2021.10.31-21.33.12:279][  0]LogFileCache: Scanning file cache for directory 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Collections/' took 0.00s
+[2021.10.31-21.33.12:279][  0]LogFileCache: Scanning file cache for directory 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Developers/Matt/Collections/' took 0.00s
+[2021.10.31-21.33.12:279][  0]LogFileCache: Scanning file cache for directory 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Collections/' took 0.00s
+[2021.10.31-21.33.12:279][  0]LogOcInput: OculusInput pre-init called
+[2021.10.31-21.33.12:289][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.10.31-21.33.12:289][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.10.31-21.33.12:329][  0]LogEngine: Initializing Engine...
+[2021.10.31-21.33.12:331][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.31-21.33.12:331][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.31-21.33.12:332][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.31-21.33.12:483][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.31-21.33.12:496][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.31-21.33.12:509][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.31-21.33.12:512][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.31-21.33.12:512][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.31-21.33.12:512][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.31-21.33.12:512][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.31-21.33.12:512][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.31-21.33.12:513][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.31-21.33.12:513][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.31-21.33.12:513][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.31-21.33.12:513][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.31-21.33.12:513][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.31-21.33.12:513][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.31-21.33.12:513][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.31-21.33.12:528][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.31-21.33.12:528][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.31-21.33.12:683][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.31-21.33.12:683][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.31-21.33.12:685][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.31-21.33.12:685][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.31-21.33.12:686][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.31-21.33.12:686][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.31-21.33.12:686][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.31-21.33.12:687][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.31-21.33.12:687][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.31-21.33.12:687][  0]LogInit: FAudioDevice initialized.
+[2021.10.31-21.33.12:687][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.31-21.33.12:687][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.31-21.33.12:731][  0]LogDerivedDataCache: Saved boot cache 0.04s 86MB C:/Users/Matt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.31-21.33.12:732][  0]LogInit: Texture streaming: Enabled
+[2021.10.31-21.33.12:742][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.10.31-21.33.12:745][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.31-21.33.12:745][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.31-21.33.12:748][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.31-21.33.12:770][  0]LogInit: Transaction tracking system initialized
+[2021.10.31-21.33.12:787][  0]BlueprintLog: New page: Editor Load
+[2021.10.31-21.33.12:842][  0]LocalizationService: Localization service is disabled
+[2021.10.31-21.33.12:860][  0]TimingProfiler: Initialize
+[2021.10.31-21.33.12:861][  0]TimingProfiler: OnSessionChanged
+[2021.10.31-21.33.12:861][  0]LoadingProfiler: Initialize
+[2021.10.31-21.33.12:861][  0]LoadingProfiler: OnSessionChanged
+[2021.10.31-21.33.12:861][  0]NetworkingProfiler: Initialize
+[2021.10.31-21.33.12:861][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.31-21.33.12:861][  0]MemoryProfiler: Initialize
+[2021.10.31-21.33.12:861][  0]MemoryProfiler: OnSessionChanged
+[2021.10.31-21.33.12:906][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.10.31-21.33.12:907][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.10.31-21.33.12:989][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.31-21.33.12:989][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.31-21.33.12:995][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/Model/Meshes/Sphere': Can't find file.
+[2021.10.31-21.33.12:995][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/Model/Meshes/Sphere': Can't find file.
+[2021.10.31-21.33.12:995][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/Model/Meshes/Sphere': Can't find file.
+[2021.10.31-21.33.12:995][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/Model/Meshes/Sphere': Can't find file.
+[2021.10.31-21.33.12:995][  0]LoadErrors: Failed to load /Game/Model/Meshes/Sphere.Sphere Referenced by Sphere
+[2021.10.31-21.33.12:995][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2021.10.31-21.33.13:144][  0]LogFileCache: Scanning file cache for directory 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/' took 0.01s
+[2021.10.31-21.33.13:328][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.31-21.33.13:331][  0]SourceControl: Source control is disabled
+[2021.10.31-21.33.13:331][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.071
+[2021.10.31-21.33.13:331][  0]Cmd: MAP LOAD FILE="H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Maps/Map_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.31-21.33.13:332][  0]LightingResults: New page: Lighting Build
+[2021.10.31-21.33.13:333][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.31-21.33.13:333][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-21.33.13:333][  0]MapCheck: New page: Map Check
+[2021.10.31-21.33.13:333][  0]LightingResults: New page: Lighting Build
+[2021.10.31-21.33.13:488][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.31-21.33.13:987][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/Model/Meshes/Sphere': Can't find file.
+[2021.10.31-21.33.13:988][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/Model/Meshes/Sphere': Can't find file.
+[2021.10.31-21.33.13:988][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/Model/Meshes/Sphere': Can't find file.
+[2021.10.31-21.33.13:988][  0]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Blueprints\Pickups\BP_Pickups_Health.uasset: Failed to load '/Game/Model/Meshes/Sphere': Can't find file.
+[2021.10.31-21.33.13:988][  0]LoadErrors: Failed to load /Game/Model/Meshes/Sphere.Sphere Referenced by Sphere
+[2021.10.31-21.33.13:988][  0]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Blueprints\Pickups\BP_Pickups_Health.uasset: Failed to load '/Game/Model/Meshes/Sphere': Can't find file.
+[2021.10.31-21.33.13:988][  0]LoadErrors: Failed to load /Game/Model/Meshes/Sphere.Sphere Referenced by Sphere
+[2021.10.31-21.33.14:005][  0]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Blueprints\Pickups\BP_Pickups_Shield.uasset: Failed to load '/Game/Model/Meshes/Sphere': Can't find file.
+[2021.10.31-21.33.14:005][  0]LoadErrors: Failed to load /Game/Model/Meshes/Sphere.Sphere Referenced by Sphere
+[2021.10.31-21.33.14:310][  0]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\VFX\RocketTrail\SmokeTrail.uasset: Failed to load '/Game/Model/Meshes/Smoke': Can't find file.
+[2021.10.31-21.33.14:310][  0]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\VFX\RocketTrail\SmokeTrail.uasset: Failed to load '/Game/Model/Meshes/Smoke': Can't find file.
+[2021.10.31-21.33.14:310][  0]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\VFX\RocketTrail\SmokeTrail.uasset: Failed to load '/Game/Model/Meshes/Smoke': Can't find file.
+[2021.10.31-21.33.14:810][  0]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Blueprints\Pickups\BP_Pickups_Health.uasset: Failed to load '/Game/Model/Meshes/Sphere': Can't find file.
+[2021.10.31-21.33.14:810][  0]LoadErrors: Failed to load /Game/Model/Meshes/Sphere.Sphere Referenced by Sphere
+[2021.10.31-21.33.15:398][  0]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\VFX\RocketTrail\SmokeTrail.uasset: Failed to load '/Game/Model/Meshes/Smoke': Can't find file.
+[2021.10.31-21.33.15:398][  0]LoadErrors: Failed to load /Game/Model/Meshes/Smoke.Smoke Referenced by NiagaraMeshRendererProperties_0
+[2021.10.31-21.33.15:669][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Intro...
+[2021.10.31-21.33.15:669][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Music/Intro.Intro will be modified from 40 to 40.
+[2021.10.31-21.33.15:796][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1425680 while cooking SoundWave /Game/Sound/Music/Intro.Intro.
+[2021.10.31-21.33.15:822][  0]LogStaticMesh: Building static mesh PlasmaCannon_TurretArms_low...
+[2021.10.31-21.33.15:847][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Model/Meshes/PlasmaCannon_TurretArms_low.PlasmaCannon_TurretArms_low
+[2021.10.31-21.33.16:217][  0]LogMaterial: Display: Missing cached shader map for material GatlingTexture, compiling. 
+[2021.10.31-21.33.16:242][  0]LogStaticMesh: Building static mesh GatlinGun_GatlinGun...
+[2021.10.31-21.33.16:270][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.10.31-21.33.16:270][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.10.31-21.33.16:270][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.10.31-21.33.16:270][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Model/Meshes/Turrets/GatlinGun_GatlinGun.GatlinGun_GatlinGun
+[2021.10.31-21.33.16:288][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_MainMenu'.
+[2021.10.31-21.33.16:289][  0]LogAIModule: Creating AISystem for world Map_MainMenu
+[2021.10.31-21.33.16:297][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.31-21.33.16:855][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.10.31-21.33.16:855][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.31-21.33.16:856][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2021.10.31-21.33.16:856][  0]LogFileHelpers: Loading map 'Map_MainMenu' took 3.523
+[2021.10.31-21.33.16:857][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.596
+[2021.10.31-21.33.17:100][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.31-21.33.17:107][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.31-21.33.17:113][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.31-21.33.17:119][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.31-21.33.17:132][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3658 classes and 871 folders.
+[2021.10.31-21.33.17:135][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.31-21.33.17:136][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.31-21.33.17:136][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:136][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.31-21.33.17:136][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.10.31-21.33.17:137][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.31-21.33.17:137][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:137][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.31-21.33.17:137][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.10.31-21.33.17:137][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.31-21.33.17:137][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:137][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.31-21.33.17:137][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.10.31-21.33.17:138][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.31-21.33.17:138][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:138][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.31-21.33.17:138][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.10.31-21.33.17:138][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.31-21.33.17:138][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:138][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.31-21.33.17:138][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.10.31-21.33.17:139][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.31-21.33.17:139][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:139][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.31-21.33.17:139][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.10.31-21.33.17:139][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.31-21.33.17:139][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:139][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.31-21.33.17:139][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.10.31-21.33.17:140][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.31-21.33.17:140][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:140][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.31-21.33.17:140][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.10.31-21.33.17:141][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.31-21.33.17:141][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:141][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.31-21.33.17:141][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.10.31-21.33.17:141][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.31-21.33.17:141][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:141][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.31-21.33.17:141][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.10.31-21.33.17:142][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.31-21.33.17:142][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:142][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.31-21.33.17:142][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.31-21.33.17:142][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.31-21.33.17:142][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:142][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.31-21.33.17:142][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.31-21.33.17:143][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.31-21.33.17:143][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:143][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.31-21.33.17:143][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.10.31-21.33.17:143][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.31-21.33.17:143][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:143][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.31-21.33.17:143][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.10.31-21.33.17:144][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.31-21.33.17:144][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:144][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.31-21.33.17:144][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.10.31-21.33.17:144][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.31-21.33.17:144][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:144][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.31-21.33.17:144][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.31-21.33.17:145][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.31-21.33.17:145][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:145][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.31-21.33.17:145][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.10.31-21.33.17:145][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.31-21.33.17:145][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:145][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.31-21.33.17:145][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.31-21.33.17:146][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.31-21.33.17:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.31-21.33.17:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.10.31-21.33.17:146][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.31-21.33.17:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.31-21.33.17:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.10.31-21.33.17:147][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.31-21.33.17:147][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.31-21.33.17:147][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.10.31-21.33.17:147][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.31-21.33.17:147][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.31-21.33.17:147][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.10.31-21.33.17:148][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.31-21.33.17:148][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:148][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.31-21.33.17:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.10.31-21.33.17:148][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.31-21.33.17:148][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:148][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.31-21.33.17:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.10.31-21.33.17:149][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.31-21.33.17:149][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:149][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.31-21.33.17:149][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.10.31-21.33.17:149][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.31-21.33.17:149][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.31-21.33.17:149][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.31-21.33.17:149][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.10.31-21.33.17:195][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.31-21.33.17:196][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.10.31-21.33.17:323][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.31-21.33.17:324][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.31-21.33.17:327][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.31-21.33.17:410][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.10.31-21.33.17:633][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.31-21.33.17:633][  0]LogLoad: (Engine Initialization) Total time: 10.37 seconds
+[2021.10.31-21.33.17:633][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.31-21.33.17:633][  0]LogInit: First time updating LLM stats...
+[2021.10.31-21.33.17:654][  0]LoadErrors: Error: /Game/Blueprints/Pickups/BP_Pickups_Health : Failed import for StaticMesh /Engine/BasicShapes/Sphere.Sphere [redirection] in /Game/Blueprints/Pickups/BP_Pickups_Health Referenced by export StaticMeshComponent /Game/Blueprints/Pickups/BP_Pickups_Health.BP_Pickups_Health_C:Sphere1_GEN_VARIABLE
+[2021.10.31-21.33.17:655][  0]LoadErrors: Error: /Game/Blueprints/Pickups/BP_Pickups_Shield : Failed import for StaticMesh /Engine/BasicShapes/Sphere.Sphere [redirection] in /Game/Blueprints/Pickups/BP_Pickups_Shield Referenced by export StaticMeshComponent /Game/Blueprints/Pickups/BP_Pickups_Shield.BP_Pickups_Shield_C:Sphere1_GEN_VARIABLE
+[2021.10.31-21.33.17:656][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2021.10.31-21.33.17:727][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.31-21.33.17:815][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.31-21.33.17:867][  2]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.31-21.33.18:669][ 65]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.31-21.33.20:572][234]LogSlate: Window 'Message Log' being destroyed
+[2021.10.31-21.33.20:575][234]LogSlate: Window 'Message Log' being destroyed
+[2021.10.31-21.33.22:252][380]LogAssetRegistry: Asset discovery search completed in 11.6635 seconds
+[2021.10.31-21.33.22:253][380]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.10.31-21.33.30:326][124]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\grass.uasset: Failed to load '/Game/Model/Meshes/GrassModel_Inst': Can't find file.
+[2021.10.31-21.33.30:326][124]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\grass.uasset: Failed to load '/Game/Model/Meshes/GrassModel_Inst': Can't find file.
+[2021.10.31-21.33.30:326][124]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\grass.uasset: Failed to load '/Game/Model/Meshes/GrassModel_Inst': Can't find file.
+[2021.10.31-21.33.30:326][124]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\grass.uasset: Failed to load '/Game/Model/Meshes/GrassModel_Inst': Can't find file.
+[2021.10.31-21.33.30:326][124]LoadErrors: Failed to load /Game/Model/Meshes/GrassModel_Inst.GrassModel_Inst Referenced by grass
+[2021.10.31-21.33.30:327][124]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\grass.uasset: Failed to load '/Game/Model/Meshes/GrassModel_Inst': Can't find file.
+[2021.10.31-21.33.30:362][124]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Model/Meshes/grass.grass
+[2021.10.31-21.33.38:403][912]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel.uasset: Failed to load '/Game/Model/Meshes/grass_lambert1_BaseColor': Can't find file.
+[2021.10.31-21.33.38:403][912]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel.uasset: Failed to load '/Game/Model/Meshes/grass_lambert1_BaseColor': Can't find file.
+[2021.10.31-21.33.38:403][912]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel.uasset: Failed to load '/Game/Model/Meshes/grass_lambert1_BaseColor': Can't find file.
+[2021.10.31-21.33.38:404][912]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel.uasset: Failed to load '/Game/Model/Meshes/grass_lambert1_BaseColor': Can't find file.
+[2021.10.31-21.33.38:404][912]LoadErrors: Failed to load /Game/Model/Meshes/grass_lambert1_BaseColor.grass_lambert1_BaseColor Referenced by GrassModel
+[2021.10.31-21.33.38:404][912]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel.uasset: Failed to load '/Game/Model/Meshes/grass_lambert1_BaseColor': Can't find file.
+[2021.10.31-21.33.38:404][912]LoadErrors: Failed to load /Game/Model/Meshes/grass_lambert1_BaseColor.grass_lambert1_BaseColor Referenced by MaterialExpressionTextureSample_0
+[2021.10.31-21.33.38:409][912]LogMaterial: Display: Missing cached shader map for material GrassModel, compiling. 
+[2021.10.31-21.33.38:411][912]LogMaterial: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.31-21.33.38:411][912]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.31-21.33.40:073][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Meshes/grass" FILE="H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Meshes/grass.uasset" SILENT=true
+[2021.10.31-21.33.40:084][ 93]LogSavePackage: Moving 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/grass9B6238534BBAFDE42DF98A93811334FE.tmp' to 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Meshes/grass.uasset'
+[2021.10.31-21.33.40:095][ 93]AssetCheck: New page: Asset Save: grass
+[2021.10.31-21.33.40:095][ 93]LogContentValidation: Display: Validating StaticMesh /Game/Model/Meshes/grass.grass
+[2021.10.31-21.33.49:452][  6]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel_Inst.uasset: Failed to load '/Game/Model/Meshes/GrassModel': Can't find file.
+[2021.10.31-21.33.49:452][  6]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel_Inst.uasset: Failed to load '/Game/Model/Meshes/GrassModel': Can't find file.
+[2021.10.31-21.33.49:452][  6]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel_Inst.uasset: Failed to load '/Game/Model/Meshes/grass_lambert1_BaseColor': Can't find file.
+[2021.10.31-21.33.49:452][  6]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel_Inst.uasset: Failed to load '/Game/Model/Meshes/GrassModel': Can't find file.
+[2021.10.31-21.33.49:453][  6]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel_Inst.uasset: Failed to load '/Game/Model/Meshes/grass_lambert1_BaseColor': Can't find file.
+[2021.10.31-21.33.49:453][  6]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel_Inst.uasset: Failed to load '/Game/Model/Meshes/GrassModel': Can't find file.
+[2021.10.31-21.33.49:453][  6]LoadErrors: Failed to load /Game/Model/Meshes/GrassModel.GrassModel Referenced by GrassModel_Inst
+[2021.10.31-21.33.49:453][  6]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Materials\GrassModel_Inst.uasset: Failed to load '/Game/Model/Meshes/grass_lambert1_BaseColor': Can't find file.
+[2021.10.31-21.33.49:453][  6]LoadErrors: Failed to load /Game/Model/Meshes/grass_lambert1_BaseColor.grass_lambert1_BaseColor Referenced by GrassModel_Inst
+[2021.10.31-21.33.49:479][  6]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Model/Materials/GrassModel_Inst.GrassModel_Inst
+[2021.10.31-21.33.52:644][332]LogSlate: Window 'GrassModel_Inst' being destroyed
+[2021.10.31-21.33.52:649][332]LogSlate: Window 'GrassModel_Inst' being destroyed
+[2021.10.31-21.33.52:652][332]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.10.31-21.33.52:652][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-21.33.52:686][332]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.31-21.33.52:686][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-21.33.53:665][425]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Model/Materials/GrassModel.GrassModel
+[2021.10.31-21.33.53:666][425]LogMaterial: Display: Missing cached shader map for material GrassModel, compiling. 
+[2021.10.31-21.33.53:668][425]LogMaterial: Warning: [AssetLog] /Engine/Transient.GrassModel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.31-21.33.53:668][425]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.31-21.33.53:749][425]LogMaterial: Display: Missing cached shader map for material GrassModel, compiling. 
+[2021.10.31-21.33.53:750][425]LogMaterial: Warning: [AssetLog] /Engine/Transient.GrassModel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.31-21.33.53:750][425]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.31-21.33.53:752][425]LogMaterial: Display: Missing cached shader map for material GrassModel, compiling. 
+[2021.10.31-21.33.53:753][425]LogMaterial: Warning: [AssetLog] /Engine/Transient.GrassModel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.31-21.33.53:754][425]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.31-21.33.53:763][425]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.10.31-21.33.53:767][425]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.10.31-21.33.53:770][425]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.31-21.33.53:770][425]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.10.31-21.33.53:773][425]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.10.31-21.33.53:777][425]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.10.31-21.33.53:777][425]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.10.31-21.33.53:777][425]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2021.10.31-21.33.53:793][425]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.10.31-21.33.53:798][425]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.31-21.33.53:910][428]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.31-21.33.56:065][628]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2021.10.31-21.33.56:263][650]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.10.31-21.33.59:244][930]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2021.10.31-21.33.59:349][939]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.10.31-21.33.59:833][982]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.10.31-21.34.00:703][ 58]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.10.31-21.34.00:898][ 70]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.10.31-21.34.01:179][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.10.31-21.34.01:568][ 94]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.10.31-21.34.01:659][ 94]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.10.31-21.34.01:775][ 94]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.10.31-21.34.01:989][ 94]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.10.31-21.34.02:230][ 94]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.10.31-21.34.09:605][655]LogMaterial: Display: Missing cached shader map for material GrassModel, compiling. 
+[2021.10.31-21.34.09:607][655]LogMaterial: Warning: [AssetLog] /Engine/Transient.GrassModel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.31-21.34.09:607][655]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.31-21.34.09:607][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.10.31-21.34.09:616][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.10.31-21.34.09:618][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.10.31-21.34.09:621][655]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.10.31-21.34.09:621][655]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.10.31-21.34.09:621][655]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.10.31-21.34.09:621][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.31-21.34.09:622][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.10.31-21.34.09:625][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.10.31-21.34.09:628][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.10.31-21.34.10:876][768]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.10.31-21.34.11:538][832]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.10.31-21.34.11:851][865]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2021.10.31-21.34.13:272][  3]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.10.31-21.34.13:638][ 36]LogMaterial: Display: Missing cached shader map for material GrassModel, compiling. 
+[2021.10.31-21.34.13:669][ 36]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.10.31-21.34.14:876][155]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2021.10.31-21.34.14:955][163]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2021.10.31-21.34.15:092][179]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.10.31-21.34.16:205][290]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2021.10.31-21.34.16:696][343]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2021.10.31-21.34.16:779][353]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2021.10.31-21.34.16:922][369]LogMaterial: Display: Missing cached shader map for material GrassModel, compiling. 
+[2021.10.31-21.34.16:943][369]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.10.31-21.34.16:946][369]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2021.10.31-21.34.17:862][457]LogMaterialEditor: Saving and Compiling material GrassModel
+[2021.10.31-21.34.18:389][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2021.10.31-21.34.18:389][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.10.31-21.34.18:389][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2021.10.31-21.34.18:413][457]LogMaterial: Display: Missing cached shader map for material GrassModel, compiling. 
+[2021.10.31-21.34.18:484][457]LogMaterial: Display: Missing cached shader map for material GrassModel, compiling. 
+[2021.10.31-21.34.18:552][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.10.31-21.34.18:559][457]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.31-21.34.19:121][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 122
+[2021.10.31-21.34.19:121][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 121
+[2021.10.31-21.34.19:121][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 120
+[2021.10.31-21.34.19:121][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 119
+[2021.10.31-21.34.19:121][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 118
+[2021.10.31-21.34.19:121][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 117
+[2021.10.31-21.34.19:679][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 116
+[2021.10.31-21.34.19:679][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 115
+[2021.10.31-21.34.19:679][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 114
+[2021.10.31-21.34.19:679][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 113
+[2021.10.31-21.34.20:237][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 112
+[2021.10.31-21.34.20:237][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 111
+[2021.10.31-21.34.20:237][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 110
+[2021.10.31-21.34.20:237][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 109
+[2021.10.31-21.34.20:237][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 108
+[2021.10.31-21.34.20:237][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 107
+[2021.10.31-21.34.20:795][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 106
+[2021.10.31-21.34.20:795][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 105
+[2021.10.31-21.34.20:795][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 104
+[2021.10.31-21.34.20:795][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 103
+[2021.10.31-21.34.21:353][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 102
+[2021.10.31-21.34.21:353][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 101
+[2021.10.31-21.34.21:353][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 100
+[2021.10.31-21.34.21:911][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 99
+[2021.10.31-21.34.21:911][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 98
+[2021.10.31-21.34.21:911][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 97
+[2021.10.31-21.34.21:911][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 96
+[2021.10.31-21.34.21:911][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 95
+[2021.10.31-21.34.22:470][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 94
+[2021.10.31-21.34.22:470][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 93
+[2021.10.31-21.34.22:470][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 92
+[2021.10.31-21.34.22:470][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 91
+[2021.10.31-21.34.23:028][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 90
+[2021.10.31-21.34.23:028][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 89
+[2021.10.31-21.34.23:028][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2021.10.31-21.34.23:028][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 78
+[2021.10.31-21.34.23:050][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 68
+[2021.10.31-21.34.23:055][457]TextureStreamingBuild: Display: Compiling optional shaders took 4.500 seconds.
+[2021.10.31-21.34.27:846][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2021.10.31-21.34.28:021][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2021.10.31-21.34.28:955][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.10.31-21.34.28:955][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.10.31-21.34.31:786][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2021.10.31-21.34.32:344][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.10.31-21.34.32:344][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.10.31-21.34.34:018][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.10.31-21.34.34:576][457]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.10.31-21.34.35:134][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.10.31-21.34.35:134][457]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.10.31-21.34.35:638][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Materials/GrassModel" FILE="H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Materials/GrassModel.uasset" SILENT=true
+[2021.10.31-21.34.35:648][457]LogSavePackage: Moving 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/GrassModel3958C32F4DF86719C8C4E4966B9FC6CD.tmp' to 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Materials/GrassModel.uasset'
+[2021.10.31-21.34.35:686][457]AssetCheck: New page: Asset Save: GrassModel
+[2021.10.31-21.34.35:686][457]LogContentValidation: Display: Validating Material /Game/Model/Materials/GrassModel.GrassModel
+[2021.10.31-21.34.35:686][457]MaterialEditorStats: Base pass shader: 115 instructions
+[2021.10.31-21.34.35:687][457]MaterialEditorStats: Base pass shader with Surface Lightmap: 136 instructions
+[2021.10.31-21.34.35:687][457]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2021.10.31-21.34.35:687][457]MaterialEditorStats: Base pass vertex shader: 116 instructions
+[2021.10.31-21.34.35:687][457]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.31-21.34.35:687][457]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(2)
+[2021.10.31-21.34.35:687][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.31-21.35.01:515][923]LogSlate: Window 'GrassModel' being destroyed
+[2021.10.31-21.35.01:520][923]LogSlate: Window 'GrassModel' being destroyed
+[2021.10.31-21.35.01:534][923]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.10.31-21.35.01:534][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-21.35.12:030][989]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Model/Meshes/grass.grass
+[2021.10.31-21.35.12:340][990]LogRenderer: Reallocating scene render targets to support 1208x740 Format 10 NumSamples 1 (Frame:1).
+[2021.10.31-21.35.16:769][477]LogSlate: Window 'grass' being destroyed
+[2021.10.31-21.35.16:773][477]LogSlate: Window 'grass' being destroyed
+[2021.10.31-21.35.16:777][477]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.10.31-21.35.16:777][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-21.35.29:564][601]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Model/Materials/GrassModel_Inst.GrassModel_Inst
+[2021.10.31-21.35.35:055][222]LogSlate: Window 'GrassModel_Inst' being destroyed
+[2021.10.31-21.35.35:060][222]LogSlate: Window 'GrassModel_Inst' being destroyed
+[2021.10.31-21.35.35:066][222]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.10.31-21.35.35:066][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-21.35.37:576][464]LogContentBrowser: Deferred new asset file creation: GrassModel_Inst1
+[2021.10.31-21.35.37:675][464]LogContentBrowser: Creating deferred item: GrassModel_Inst1
+[2021.10.31-21.35.39:819][655]LogContentBrowser: Attempting asset rename: GrassModel_Inst1 -> GrassModel_Inst1
+[2021.10.31-21.35.39:819][655]LogContentBrowser: End creating deferred item GrassModel_Inst1
+[2021.10.31-21.35.42:552][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.31-21.35.44:854][925]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.31-21.35.44:936][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.31-21.35.44:950][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.31-21.35.44:957][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.10.31-21.35.45:964][ 10]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Model/Materials/GrassModel_Inst1.GrassModel_Inst1
+[2021.10.31-21.36.53:074][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Materials/GrassModel_Inst1" FILE="H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Materials/GrassModel_Inst1.uasset" SILENT=true
+[2021.10.31-21.36.53:081][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.10.31-21.36.53:084][250]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.10.31-21.36.53:091][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.10.31-21.36.53:096][250]LogSavePackage: Moving 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/GrassModel_Inst1532F49AB488CF7ED8F1330A8235A700E.tmp' to 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Materials/GrassModel_Inst1.uasset'
+[2021.10.31-21.36.53:105][250]AssetCheck: New page: Asset Save: GrassModel_Inst1
+[2021.10.31-21.36.53:105][250]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Model/Materials/GrassModel_Inst1.GrassModel_Inst1
+[2021.10.31-21.36.59:132][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Materials/GrassModel_Inst1" FILE="H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Materials/GrassModel_Inst1.uasset" SILENT=true
+[2021.10.31-21.36.59:133][869]LogSavePackage: Moving 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/GrassModel_Inst19B04A5F34CF5D32A89B69284C7C6AD84.tmp' to 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Materials/GrassModel_Inst1.uasset'
+[2021.10.31-21.36.59:142][869]AssetCheck: New page: Asset Save: GrassModel_Inst1
+[2021.10.31-21.36.59:142][869]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Model/Materials/GrassModel_Inst1.GrassModel_Inst1
+[2021.10.31-21.37.01:760][146]LogSlate: Window 'GrassModel_Inst1' being destroyed
+[2021.10.31-21.37.01:764][146]LogSlate: Window 'GrassModel_Inst1' being destroyed
+[2021.10.31-21.37.01:768][146]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.10.31-21.37.01:768][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-21.37.48:299][101]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Model/Meshes/grass.grass
+[2021.10.31-21.37.51:344][383]LogStaticMesh: Building static mesh grass...
+[2021.10.31-21.37.51:391][383]LogStaticMesh: Built static mesh [0.05s] /Game/Model/Meshes/grass.grass
+[2021.10.31-21.37.52:990][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Meshes/grass" FILE="H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Meshes/grass.uasset" SILENT=true
+[2021.10.31-21.37.52:999][551]LogSavePackage: Moving 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/grass23233A9949D62E09DACE9D8CE68E2FCA.tmp' to 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Meshes/grass.uasset'
+[2021.10.31-21.37.53:009][551]AssetCheck: New page: Asset Save: grass
+[2021.10.31-21.37.53:009][551]LogContentValidation: Display: Validating StaticMesh /Game/Model/Meshes/grass.grass
+[2021.10.31-21.37.53:989][653]LogSlate: Window 'grass' being destroyed
+[2021.10.31-21.37.53:993][653]LogSlate: Window 'grass' being destroyed
+[2021.10.31-21.37.53:997][653]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.10.31-21.37.53:997][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-21.38.16:928][ 47]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Environment\Crab2_Anim.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.16:928][ 47]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Environment\Crab2_Anim.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.16:929][ 47]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Environment\Crab2_Anim.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.16:929][ 47]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Environment\Crab2_Anim.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.16:929][ 47]LoadErrors: Failed to load /Game/Model/Crab2_Skeleton.Crab2_Skeleton Referenced by Crab2_Anim
+[2021.10.31-21.38.16:953][ 47]LogLinker: Warning: Failed to load '/Game/Model/Crab2': Can't find file.
+[2021.10.31-21.38.16:953][ 47]LogLinker: Warning: Failed to load '/Game/Model/Crab2': Can't find file.
+[2021.10.31-21.38.16:953][ 47]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Model/Crab2.Crab2'
+[2021.10.31-21.38.19:164][303]LogMetaData: Removing '/Game/Model/Meshes/Enemy/Crab2_Skeleton.Crab2_Skeleton' ref from Metadata '/Game/Model/Meshes/Environment/Crab2_Skeleton.PackageMetaData'
+[2021.10.31-21.38.19:165][303]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Anim.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.19:165][303]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Anim.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.19:170][303]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Anim.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.19:198][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Meshes/Enemy/Crab2_Skeleton" FILE="H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Meshes/Enemy/Crab2_Skeleton.uasset" SILENT=true
+[2021.10.31-21.38.19:199][303]LogSavePackage: Moving 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Crab2_SkeletonC62A3191454412B503349A8C0F40DD82.tmp' to 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Meshes/Enemy/Crab2_Skeleton.uasset'
+[2021.10.31-21.38.19:215][303]LogSavePackage: Moving 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Saved/Crab2_PhysicsAsset7D8CC6E44AF2166BF6DE5DA8381DB68D.tmp' to 'H:/Desktop/PinkMoon Studios/DIG4720C_Project2/DimensionDestroyer/Content/Model/Meshes/Enemy/Crab2_PhysicsAsset.uasset'
+[2021.10.31-21.38.19:271][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.31-21.38.19:282][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.31-21.38.19:294][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.31-21.38.19:300][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.10.31-21.38.19:405][303]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.31-21.38.19:405][303]LogContentValidation: Display: Validating PhysicsAsset /Game/Model/Meshes/Enemy/Crab2_PhysicsAsset.Crab2_PhysicsAsset
+[2021.10.31-21.38.19:405][303]LogContentValidation: Display: Validating Skeleton /Game/Model/Meshes/Enemy/Crab2_Skeleton.Crab2_Skeleton
+[2021.10.31-21.38.22:577][677]LogSlate: Window 'Failed Renames' being destroyed
+[2021.10.31-21.38.25:682][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.31-21.38.26:796][ 24]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.31-21.38.26:855][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.10.31-21.38.26:866][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.10.31-21.38.26:872][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.10.31-21.38.33:965][832]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: Failed to load '/Game/Model/Crab2_Anim': Can't find file.
+[2021.10.31-21.38.33:965][832]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: Failed to load '/Game/Model/Crab2_Anim': Can't find file.
+[2021.10.31-21.38.33:965][832]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: Failed to load '/Game/Model/Crab2_Anim': Can't find file.
+[2021.10.31-21.38.33:965][832]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.33:965][832]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.33:965][832]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.33:966][832]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.33:966][832]LoadErrors: Failed to load /Game/Model/Crab2_Skeleton.Crab2_Skeleton Referenced by Crab2_Skeleton_AnimBlueprint_C
+[2021.10.31-21.38.33:966][832]LogLinker: Warning: Failed to load '/Game/Model/Crab2_Anim': Can't find file.
+[2021.10.31-21.38.33:966][832]LogLinker: Warning: Failed to load '/Game/Model/Crab2_Anim': Can't find file.
+[2021.10.31-21.38.33:966][832]LogLinker: Warning: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.33:966][832]LogLinker: Warning: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.33:966][832]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: Failed to load '/Game/Model/Crab2_Anim': Can't find file.
+[2021.10.31-21.38.33:966][832]LoadErrors: Failed to load /Game/Model/Crab2_Anim.Crab2_Anim Referenced by Default__Crab2_Skeleton_AnimBlueprint_C
+[2021.10.31-21.38.33:967][832]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: Failed to load '/Game/Model/Crab2_Skeleton': Can't find file.
+[2021.10.31-21.38.33:967][832]LoadErrors: Failed to load /Game/Model/Crab2_Skeleton.Crab2_Skeleton Referenced by Crab2_Skeleton_AnimBlueprint
+[2021.10.31-21.38.33:967][832]LogLinker: Warning: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: Failed to load '/Game/Model/Crab2_Anim': Can't find file.
+[2021.10.31-21.38.33:967][832]LoadErrors: Failed to load /Game/Model/Crab2_Anim.Crab2_Anim Referenced by AnimGraphNode_SequencePlayer_1
+[2021.10.31-21.38.33:970][832]LogBlueprint: Error: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: [Compiler] Crab2_Skeleton_AnimBlueprint  - The skeleton asset for this animation Blueprint is missing, so it cannot be compiled!
+[2021.10.31-21.38.33:983][832]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Model/Meshes/Enemy/Crab2_Skeleton_AnimBlueprint.Crab2_Skeleton_AnimBlueprint
+[2021.10.31-21.38.40:334][832]LogSlate: Window 'Message' being destroyed
+[2021.10.31-21.38.40:336][832]Message dialog closed, result: Yes, title: Message, text: Could not find the skeleton for Anim Blueprint 'Crab2_Skeleton_AnimBlueprint' Would you like to choose a new one?
+[2021.10.31-21.38.40:464][832]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.10.31-21.38.43:618][194]LogBlueprint: Error: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.10.31-21.38.43:618][194]LogBlueprint: Error: [AssetLog] H:\Desktop\PinkMoon Studios\DIG4720C_Project2\DimensionDestroyer\Content\Model\Meshes\Enemy\Crab2_Skeleton_AnimBlueprint.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2021.10.31-21.38.43:625][194]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.10.31-21.38.43:629][194]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.10.31-21.38.43:629][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-21.38.43:639][194]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.31-21.38.43:639][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.31-21.38.48:084][676]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Model/Meshes/Enemy/Crab2_Skeleton_AnimBlueprint.Crab2_Skeleton_AnimBlueprint
+[2021.10.31-21.38.48:091][676]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.10.31-21.38.48:096][676]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.10.31-21.38.48:295][676]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.10.31-21.38.48:295][676]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.10.31-21.38.48:295][676]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.10.31-21.38.48:725][676]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.10.31-21.38.48:726][676]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2021.10.31-21.38.48:727][676]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.10.31-21.38.48:727][676]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2021.10.31-21.38.48:754][676]LogStaticMesh: Building static mesh S_WaterPlane_256...
+[2021.10.31-21.38.48:830][676]LogStaticMesh: Built static mesh [0.08s] /Water/Meshes/S_WaterPlane_256.S_WaterPlane_256
+[2021.10.31-21.38.48:832][676]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_Force_Impulse, compiling. 
+[2021.10.31-21.38.48:843][676]LogMaterial: Display: Missing cached shader map for material M_Rain_01, compiling. 
+[2021.10.31-21.38.48:854][676]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.10.31-21.38.48:854][676]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.10.31-21.38.48:854][676]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.10.31-21.38.48:854][676]LogMaterial: Display: Missing cached shader map for material M_Advect_Height_01, compiling. 
+[2021.10.31-21.38.48:857][676]LogMaterial: Display: Missing cached shader map for material M_Advect_Velocity, compiling. 
+[2021.10.31-21.38.48:860][676]LogMaterial: Display: Missing cached shader map for material M_CalcDivergence, compiling. 
+[2021.10.31-21.38.48:862][676]LogMaterial: Display: Missing cached shader map for material M_SeedWater_01, compiling. 
+[2021.10.31-21.38.48:864][676]LogMaterial: Display: Missing cached shader map for material M_GravAcceleration, compiling. 
+[2021.10.31-21.38.48:866][676]LogMaterial: Display: Missing cached shader map for material M_Advect_Height_01, compiling. 
+[2021.10.31-21.38.48:870][676]LogMaterial: Display: Missing cached shader map for material M_Advect_Height_01, compiling. 
+[2021.10.31-21.38.48:874][676]LogMaterial: Display: Missing cached shader map for material DrawWaveCrests, compiling. 
+[2021.10.31-21.38.48:876][676]LogMaterial: Display: Missing cached shader map for material FoamDeltaCopy, compiling. 
+[2021.10.31-21.38.48:879][676]LogMaterial: Display: Missing cached shader map for material FoamDiffuse, compiling. 
+[2021.10.31-21.38.48:882][676]LogMaterial: Display: Missing cached shader map for material M_Fluid_Force_Skelmesh, compiling. 
+[2021.10.31-21.38.48:887][676]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.10.31-21.38.48:892][676]LogMaterial: Display: Missing cached shader map for material PerfTestNoiseMaterial, compiling. 
+[2021.10.31-21.38.48:894][676]LogMaterial: Display: Missing cached shader map for material M_Fluid_Display_01, compiling. 
+[2021.10.31-21.38.48:906][676]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_Force_Component, compiling. 
+[2021.10.31-21.38.48:911][676]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.10.31-21.38.48:913][676]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.31-21.38.48:913][676]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.31-21.38.49:655][676]LogTexture: Display: Building textures: Caustics_Animated_01_HDR (RGBA16F, 4096X2048)
+[2021.10.31-21.38.49:655][676]LogMaterial: Display: Missing cached shader map for material M_RT_Normals, compiling. 
+[2021.10.31-21.38.49:657][676]LogMaterial: Display: Missing cached shader map for material ComputeVoronoiDistance, compiling. 
+[2021.10.31-21.38.49:662][676]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.10.31-21.38.49:667][676]LogMaterial: Display: Missing cached shader map for material MakeEdgeMask, compiling. 
+[2021.10.31-21.38.49:670][676]LogMaterial: Display: Missing cached shader map for material CopyRT, compiling. 
+[2021.10.31-21.38.49:674][676]LogMaterial: Display: Missing cached shader map for material M_Underwater_CrossSection_Test, compiling. 
+[2021.10.31-21.38.49:680][676]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.10.31-21.38.49:685][676]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.10.31-21.38.49:686][676]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.31-21.38.49:686][676]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.31-21.38.49:687][676]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.10.31-21.38.49:710][676]LogBlueprintEditor: Perf: 1.6 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.10.31-21.38.49:710][676]LogBlueprintEditor: Perf: 1.5 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2021.10.31-21.38.49:761][676]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.10.31-21.38.50:537][676]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 135
+[2021.10.31-21.38.50:537][676]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 125
+[2021.10.31-21.38.50:537][676]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.10.31-21.38.51:688][676]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.151 s
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: === Handled ensure: ===
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: 
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 903]
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: Type mismatch: Expected Crab2_Skeleton_AnimBlueprint_C, Found AnimPreviewInstance
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: Stack: 
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9f4ae70e7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9f33f7c14 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9cb45742a UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9cb43f9a4 UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9ddc5714c UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9fa2c2c11 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9fa2c3fad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9fa2c3cda UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9cc939fdf UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9cc93a200 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9cc927c82 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9de55b95d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9de51a800 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9de47b74c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9de439357 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9de398374 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9de486227 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9de47b93b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9fd222bf8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9fd2a68e7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9fd28f4ce UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff9fd282de9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ffa23c3bc8f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ffa23c29197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ffa23c3e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ffa23c24310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ffa8c25e7e8 USER32.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ffa8c25e229 USER32.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ffa23c3f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff7c5c38848 UE4Editor.exe!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff7c5c5117c UE4Editor.exe!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff7c5c5125a UE4Editor.exe!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff7c5c652bd UE4Editor.exe!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ff7c5c67fea UE4Editor.exe!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ffa8dc57034 KERNEL32.DLL!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: [Callstack] 0x00007ffa8e242651 ntdll.dll!UnknownFunction []
+[2021.10.31-21.38.51:688][676]LogOutputDevice: Error: 
